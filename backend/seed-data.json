@@ -132,12 +132,12 @@
       },
       {
         "question": "What is the highest-grossing film of all time?",
-        "options": ["Avatar", "Avengers: Endgame", "Titanic"],
+        "options": ["Avatar", "For Sale", "Titanic"],
         "answer": "Avatar"
       },
       {
         "question": "Which film features the character 'Gollum'?",
-        "options": ["The Lord of the Rings", "Harry Potter", "Star Wars"],
+        "options": ["The Lord of the Rings", "Vash", "Star Wars"],
         "answer": "The Lord of the Rings"
       },
       {
@@ -147,7 +147,7 @@
       },
       {
         "question": "In which film does the character 'Travis Bickle' appear?",
-        "options": ["Taxi Driver", "Goodfellas", "The Godfather"],
+        "options": ["Taxi Driver", "Goodfellas", "Chime"],
         "answer": "Taxi Driver"
       },
       {
