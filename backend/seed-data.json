@@ -136,9 +136,9 @@
         "answer": "Avatar"
       },
       {
-        "question": "Which film features the character 'Gollum'?",
-        "options": ["The Lord of the Rings", "Vash", "Star Wars"],
-        "answer": "The Lord of the Rings"
+        "question": "Which film is detective?",
+        "options": ["Sherlock Holmes", "Vash", "Star Wars"],
+        "answer": "Sherlock Holmes"
       },
       {
         "question": "Who directed the movie 'Pulp Fiction'?",
